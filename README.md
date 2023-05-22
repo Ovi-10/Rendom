@@ -181,7 +181,7 @@ def innocent():
     os.geteuid
     os.system("clear")
     print(logo)
-    print('\033[1;32m [√] BD CODE : 017/019/016/018/013')
+    print('\033[1;32m [√] BD CODE : 017/019/016/018/013)
     linex()
     code = input('\033[1;32m [?] CHOOSE : ')
     os.system('clear')
